@@ -11,4 +11,3 @@ const PhotoGrid = React.createClass({
 })
 
 export default PhotoGrid
- pf
