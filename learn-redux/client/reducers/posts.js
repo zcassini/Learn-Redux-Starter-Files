@@ -1,6 +1,6 @@
 const posts = (state = [], action) => {
-  console.log('posts will change')
-  console.log(state, action)
+  // console.log('posts will change')
+  // console.log(state, action)
   switch (action.type) {
     case 'INCREMENT_LIKES':
       return [
